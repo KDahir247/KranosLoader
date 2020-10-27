@@ -454,23 +454,6 @@ CMakeFiles\Kranos.dir\Kranos\GUI\Panel\HierarchyPanel.cpp.obj: ..\Kranos\GUI\Pan
 CMakeFiles\Kranos.dir\Kranos\GUI\Panel\HierarchyPanel.cpp.obj: ..\Kranos\GUI\Panel\HierarchyPanel.cpp
 CMakeFiles\Kranos.dir\Kranos\GUI\Panel\HierarchyPanel.cpp.obj: ..\Kranos\GUI\Panel\HierarchyPanel.h
 
-CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\ASSIMP\include\assimp\MathFunctions.h
-CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\ASSIMP\include\assimp\anim.h
-CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\ASSIMP\include\assimp\color4.h
-CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\ASSIMP\include\assimp\color4.inl
-CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\ASSIMP\include\assimp\config.h
-CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\ASSIMP\include\assimp\defs.h
-CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\ASSIMP\include\assimp\matrix3x3.h
-CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\ASSIMP\include\assimp\matrix3x3.inl
-CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\ASSIMP\include\assimp\matrix4x4.h
-CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\ASSIMP\include\assimp\matrix4x4.inl
-CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\ASSIMP\include\assimp\quaternion.h
-CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\ASSIMP\include\assimp\quaternion.inl
-CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\ASSIMP\include\assimp\types.h
-CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\ASSIMP\include\assimp\vector2.h
-CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\ASSIMP\include\assimp\vector2.inl
-CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\ASSIMP\include\assimp\vector3.h
-CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\ASSIMP\include\assimp\vector3.inl
 CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\NUKLEAR\nuklear.h
 CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\RxCpp\Rx\v2\src\rxcpp\operators\rx-all.hpp
 CMakeFiles\Kranos.dir\Kranos\GUI\Panel\LogPanel.cpp.obj: ..\..\Deps\RxCpp\Rx\v2\src\rxcpp\operators\rx-amb.hpp

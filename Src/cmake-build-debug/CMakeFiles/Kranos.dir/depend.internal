@@ -455,23 +455,6 @@ CMakeFiles/Kranos.dir/Kranos/GUI/Panel/HierarchyPanel.cpp.obj
  C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/GUI/Panel/HierarchyPanel.cpp
  C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/GUI/Panel/HierarchyPanel.h
 CMakeFiles/Kranos.dir/Kranos/GUI/Panel/LogPanel.cpp.obj
- ../../Deps/ASSIMP/include/assimp/MathFunctions.h
- ../../Deps/ASSIMP/include/assimp/anim.h
- ../../Deps/ASSIMP/include/assimp/color4.h
- ../../Deps/ASSIMP/include/assimp/color4.inl
- ../../Deps/ASSIMP/include/assimp/config.h
- ../../Deps/ASSIMP/include/assimp/defs.h
- ../../Deps/ASSIMP/include/assimp/matrix3x3.h
- ../../Deps/ASSIMP/include/assimp/matrix3x3.inl
- ../../Deps/ASSIMP/include/assimp/matrix4x4.h
- ../../Deps/ASSIMP/include/assimp/matrix4x4.inl
- ../../Deps/ASSIMP/include/assimp/quaternion.h
- ../../Deps/ASSIMP/include/assimp/quaternion.inl
- ../../Deps/ASSIMP/include/assimp/types.h
- ../../Deps/ASSIMP/include/assimp/vector2.h
- ../../Deps/ASSIMP/include/assimp/vector2.inl
- ../../Deps/ASSIMP/include/assimp/vector3.h
- ../../Deps/ASSIMP/include/assimp/vector3.inl
  ../../Deps/NUKLEAR/nuklear.h
  ../../Deps/RxCpp/Rx/v2/src/rxcpp/operators/rx-all.hpp
  ../../Deps/RxCpp/Rx/v2/src/rxcpp/operators/rx-amb.hpp
