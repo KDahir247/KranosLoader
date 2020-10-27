@@ -1,0 +1,3 @@
+C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/cmake-build-debug/CMakeFiles/Kranos.dir
+C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/cmake-build-debug/CMakeFiles/rebuild_cache.dir

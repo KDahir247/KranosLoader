@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Kranos"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kranos">
+				<Option output="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/cmake-build-debug/Kranos.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/../Deps/GLAD/include"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/../Deps/GLFW/include"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/../Deps/STBI_IMAGE/include"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/../Deps/NUKLEAR"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/../Deps/GLM"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/../Deps/spdlog/include"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/../Deps/RxCpp/Rx/v2/src"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/../Deps/ASSIMP/include"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Event"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 Kranos"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Kranos/fast">
+				<Option output="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/cmake-build-debug/Kranos.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/../Deps/GLAD/include"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/../Deps/GLFW/include"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/../Deps/STBI_IMAGE/include"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/../Deps/NUKLEAR"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/../Deps/GLM"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/../Deps/spdlog/include"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/../Deps/RxCpp/Rx/v2/src"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/../Deps/ASSIMP/include"/>
+					<Add directory="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Event"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 Kranos/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Application.cpp">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Application.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Entry.cpp">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Event/ApplicationEvent.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Event/Event.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Event/GUIEvent.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Event/KeyboardEvent.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Event/LogEvent.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Event/MouseEvent.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Event/WindowEvent.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/GUI/NuklearLayer.cpp">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/GUI/NuklearLayer.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/GUI/Panel/ContentPanel.cpp">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/GUI/Panel/ContentPanel.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/GUI/Panel/GUIPanel.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/GUI/Panel/HierarchyPanel.cpp">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/GUI/Panel/HierarchyPanel.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/GUI/Panel/LogPanel.cpp">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/GUI/Panel/LogPanel.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/GUI/Panel/MenuPanel.cpp">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/GUI/Panel/MenuPanel.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/GUI/Panel/PropertyPanel.cpp">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/GUI/Panel/PropertyPanel.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/GUI/Style/KranosStyle.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/KranosContext.cpp">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/KranosContext.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Layer.cpp">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Layer.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/LayerStack.cpp">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/LayerStack.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Log.cpp">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Log.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Window/Window.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Window/WindowsWindow.cpp">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/Kranos/Window/WindowsWindow.h">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/glad.c">
+			<Option target="Kranos"/>
+		</Unit>
+		<Unit filename="C:/Users/kdahi/OneDrive/Documents/Clion/Kranos/Src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

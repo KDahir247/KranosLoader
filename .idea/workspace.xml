@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Kranos" targetName="Kranos" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0de8028-af9c-4f62-bfbf-c52fa31748b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1hqDigQw48YHB0cg7zYWMMZXVy5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Deps/ASSIMP" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\Kranos\Window" />
+      <recent name="C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Src\Kranos" />
+      <recent name="C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Shader\Skybox" />
+      <recent name="C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Deps\NUKLEAR" />
+      <recent name="C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Fonts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Deps\ASSIMP" />
+      <recent name="C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Deps\ASSIMP\Lib" />
+      <recent name="C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Deps" />
+      <recent name="C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Images\Cubemap\Cloudy" />
+      <recent name="C:\Users\kdahi\OneDrive\Documents\Clion\Kranos\Images\Cubemap\Night" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="KranosD" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_PATH="$PROJECT_DIR$/Src/cmake-build-debug/Kranos.exe" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_PATH="$PROJECT_DIR$/Src/CMakeLists.txt" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0de8028-af9c-4f62-bfbf-c52fa31748b2" name="Default Changelist" comment="" />
+      <created>1600729857306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600729857306</updated>
+      <workItem from="1600729859386" duration="1303000" />
+      <workItem from="1600731204255" duration="209000" />
+      <workItem from="1600731427693" duration="240000" />
+      <workItem from="1600731675874" duration="417000" />
+      <workItem from="1600732103963" duration="9949000" />
+      <workItem from="1600780124084" duration="1031000" />
+      <workItem from="1600781166058" duration="25518000" />
+      <workItem from="1600820438378" duration="5346000" />
+      <workItem from="1600865688878" duration="174000" />
+      <workItem from="1600865886458" duration="35466000" />
+      <workItem from="1600974185040" duration="42812000" />
+      <workItem from="1601164141953" duration="898000" />
+      <workItem from="1601165055544" duration="32588000" />
+      <workItem from="1601319519554" duration="8648000" />
+      <workItem from="1601345865042" duration="20300000" />
+      <workItem from="1601425254199" duration="60461000" />
+      <workItem from="1601997912860" duration="3057000" />
+      <workItem from="1602084947080" duration="30000" />
+      <workItem from="1603812394574" duration="1824000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1601165075147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1601165075147" />
+    <state x="414" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600773981356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600773981356" />
+    <state x="898" y="478" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600961125521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="898" y="478" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600961125521" />
+    <state x="217" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601556936330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="217" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601556936330" />
+    <state x="1124" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601557621762">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1124" y="393" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1601557621762" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601566460270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601566460270" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1603814165629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603814165629" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1603814165629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603814165629" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1603814165629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603814165629" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1603814165629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603814165629" />
+    <state width="530" height="347" key="GridCell.Tab.1.bottom" timestamp="1601997872720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="530" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601997872720" />
+    <state width="530" height="347" key="GridCell.Tab.1.center" timestamp="1601997872720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="530" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601997872720" />
+    <state width="530" height="347" key="GridCell.Tab.1.left" timestamp="1601997872720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="530" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601997872720" />
+    <state width="530" height="347" key="GridCell.Tab.1.right" timestamp="1601997872720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="530" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601997872720" />
+    <state x="84" y="208" key="SettingsEditor" timestamp="1601219821163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="84" y="208" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601219821163" />
+    <state x="-7" y="0" width="974" height="1047" key="dock-window-1" timestamp="1601504378023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-7" y="0" width="974" height="1047" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1601504378023" />
+    <state x="953" y="0" width="974" height="1047" key="dock-window-2" timestamp="1601556936850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="0" width="974" height="1047" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1601556936850" />
+    <state x="953" y="0" width="974" height="1047" key="dock-window-3" timestamp="1601562824508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="0" width="974" height="1047" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1601562824508" />
+    <state x="953" y="0" width="974" height="1047" key="dock-window-4" timestamp="1601562601320">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="0" width="974" height="1047" key="dock-window-4/0.0.1920.1040@0.0.1920.1040" timestamp="1601562601320" />
+    <state x="205" y="308" key="refactoring.ChangeSignatureDialog" timestamp="1601475498582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="205" y="308" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601475498582" />
+    <state x="1096" y="244" key="run.anything.popup" timestamp="1601558065024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601558065024" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601478921374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601478921374" />
+  </component>
+</project>

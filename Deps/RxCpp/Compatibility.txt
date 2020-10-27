@@ -1,0 +1,6 @@
+RXCPP doesn't work with the c++20 since std::result_of has been depricated from c++20 
+use c++ < 20 to resolve the issue
+
+
+CMake Include path
+include_directories(ReactiveExtensionTest2 "C:/Users/kdahi/RxCpp/Rx/v2/src")
